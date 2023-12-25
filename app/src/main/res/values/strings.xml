@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Password Strength Checker</string>
+    <string name="check_password">Check Password</string>
+    <string name="enter_your_password">Enter your password</string>
+</resources>
